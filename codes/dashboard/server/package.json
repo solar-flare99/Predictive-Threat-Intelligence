@@ -13,6 +13,7 @@
     "jade": "^1.11.0",
     "mongodb": "^2.2.33",
     "morgan": "^1.9.1",
-    "underscore": "^1.9.1"
+    "underscore": "^1.9.1",
+    "bson": "^1.1.4"
   }
 }
